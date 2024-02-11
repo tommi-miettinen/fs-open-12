@@ -1,0 +1,25 @@
+PS D:\Desktop\part12-containers-applications-main> docker run -it ubuntu bash
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+57c139bbda7e: Pull complete
+Digest: sha256:e9569c25505f33ff72e88b2990887c9dcf230f23259da296eb814fc2b41af999
+Status: Downloaded newer image for ubuntu:latest
+root@5ffaef608bb9:/# ls       
+bin  boot  dev  etc  home  lib  lib32  lib64  libx32  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+root@5ffaef608bb9:/# mkdir -p /usr/src/app
+root@5ffaef608bb9:/# ls
+bin  boot  dev  etc  home  lib  lib32  lib64  libx32  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+root@5ffaef608bb9:/# cd usr
+root@5ffaef608bb9:/usr# ls
+bin  games  include  lib  lib32  lib64  libexec  libx32  local  sbin  share  src
+root@5ffaef608bb9:/usr# cd src
+root@5ffaef608bb9:/usr/src# ls
+app
+root@5ffaef608bb9:/usr/src# cd app
+root@5ffaef608bb9:/usr/src/app# ls
+root@5ffaef608bb9:/usr/src/app# touch index.js
+root@5ffaef608bb9:/usr/src/app# ls
+index.js
+root@5ffaef608bb9:/usr/src/app#
+root@5ffaef608bb9:/usr/src/app# exit
+exit

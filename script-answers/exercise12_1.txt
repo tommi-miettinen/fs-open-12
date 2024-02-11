@@ -1,0 +1,37 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           : 
+                    <!DOCTYPE html>
+                    <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+                    <head>
+
+
+
+
+
+                        <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{c...
+RawContent        : HTTP/1.1 200 OK
+                    X-Drupal-Dynamic-Cache: MISS
+                    Link: <https://www.helsinki.fi/assets/drupal/styles/linkbox_image_16_10_tablet/s3/media-image/Vihannesten-leikkaamista_0.jpg.webp?itok
+                    =9CDtQiNe>; rel="pr...
+Forms             : {}
+Headers           : {[X-Drupal-Dynamic-Cache, MISS], [Link, <https://www.helsinki.fi/assets/drupal/styles/linkbox_image_16_10_tablet/s3/media-image/Vihann
+                    esten-leikkaamista_0.jpg.webp?itok=9CDtQiNe>; rel="preload"; as="image",<https://www.helsinki.fi/assets/drupal/styles/hero_image_fallb
+                    ack/s3/media-image/VYS-hero-tohtori-pekka-lahteenmaki.jpg.jpeg?itok=XYbywKaw>; rel="preload"; as="image"], [Content-language, en], [X-
+                    Content-Type-Options, nosniff]...}
+Images            : {}
+InputFields       : {@{innerHTML=; innerText=; outerHTML=<INPUT id=pid-145767 type=hidden value=145767 name=pid>; outerText=; tagName=INPUT; id=pid-145767
+                    ; type=hidden; value=145767; name=pid}}
+Links             : {@{innerHTML=Skip to main content ; innerText=Skip to main content ; outerHTML=<A class="visually-hidden focusable" href="#main-conten
+                    t">Skip to main content </A>; outerText=Skip to main content ; tagName=A; class=visually-hidden focusable; href=#main-content}, @{inne
+                    rHTML=News ; innerText=News ; outerHTML=<A href="/en/news" data-menu-link-id="0bda75ab91f8bad1d33de860414b7b17" aria-current="News">Ne
+                    ws </A>; outerText=News ; tagName=A; href=/en/news; data-menu-link-id=0bda75ab91f8bad1d33de860414b7b17; aria-current=News}, @{innerHTM
+                    L=<HY-ICON size="10" icon="hy-icon-caret-right"></HY-ICON><SPAN>News and press releases </SPAN>; innerText=News and press releases ; o
+                    uterHTML=<A class=hy-desktop-menu__panel-link href="/en/news/news-and-press-releases" target=_self><HY-ICON size="10" icon="hy-icon-ca
+                    ret-right"></HY-ICON><SPAN>News and press releases </SPAN></A>; outerText=News and press releases ; tagName=A; class=hy-desktop-menu__
+                    panel-link; href=/en/news/news-and-press-releases; target=_self}, @{innerHTML=<HY-ICON size="10" icon="hy-icon-caret-right"></HY-ICON>
+                    <SPAN>War in Ukraine </SPAN>; innerText=War in Ukraine ; outerHTML=<A class=hy-desktop-menu__panel-link href="/en/news/war-ukraine" ta
+                    rget=_self><HY-ICON size="10" icon="hy-icon-caret-right"></HY-ICON><SPAN>War in Ukraine </SPAN></A>; outerText=War in Ukraine ; tagNam
+                    e=A; class=hy-desktop-menu__panel-link; href=/en/news/war-ukraine; target=_self}...}
+ParsedHtml        : System.__ComObject
+RawContentLength  : 431696
